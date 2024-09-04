@@ -50,6 +50,9 @@ sorted, as all elements are placed in their correct positions.
 By ensuring the invariant holds and both loops terminates after processing all elements, Selection Sort is guaranteed to correctly sort the array and complete in a finite number pf operation. 
 
 BenchMark:
+
+System Info:
+
 Operating System: Windows 11
 
 Processor: Intel64 Family 6 Model 186 Stepping 3, GenuineIntel
